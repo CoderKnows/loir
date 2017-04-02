@@ -4,21 +4,21 @@
 
 - __PHP__
   - [Официальный сайт](http://php.net/)
-  - Фреймворки
+  - __Фреймворки__
     - [Zend Framework](https://framework.zend.com) by Zend
     - [Symfony Framework](http://symfony.com) by SensioLabs
     - [Laravel](https://laravel.com)
-- Python
+- __Python__
   - [Официальный сайт](https://www.python.org)
 
 ## Frontend
 - __CSS__
-  - Фреймворки
+  - __Фреймворки__
     - [Bootstrap 3](http://getbootstrap.com) by Twitter
     - [Bootstrap 4](https://v4-alpha.getbootstrap.com) by Twitter
 - __JavaScript__
-  - Библиотеки
+  - __Библиотеки__
     - [jQuery](http://jquery.com)
-  - Фреймворки
+  - __Фреймворки__
     - [AngularJS](https://angularjs.org) by Google
     - [Angular](https://angular.io) by Google

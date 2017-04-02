@@ -1,10 +1,8 @@
 # Списки ресурсов для изучения английского языка
 
-- Интернет-сервисы
-
+- __Интернет-сервисы__
   - [LinguaLeo](https://lingualeo.com)
   - [DuoLingo](https://www.duolingo.com)
   - [EnglishDom](https://www.englishdom.com)
   - [ABA English](https://campus.abaenglish.com)
-  
-- Материалы к учебным курсам
+- __Материалы к учебным курсам__
