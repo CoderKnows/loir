@@ -1,7 +1,6 @@
 # Список ресурсов для веб-разработчиков
 
 ## Backend
-
 - __PHP__
   - [Официальный сайт](http://php.net/)
   - __Фреймворки__
@@ -10,6 +9,9 @@
     - [Laravel](https://laravel.com)
 - __Python__
   - [Официальный сайт](https://www.python.org)
+  - [Еженедельная подборка свежих и самых значимых новостей o Python](https://pythondigest.ru)
+  - [Python 3 для начинающих](https://pythonworld.ru)
+  - [djbook.ru](https://djbook.ru)
 
 ## Frontend
 - __CSS__
